@@ -1,0 +1,4 @@
+Red:		#ff0202
+Green:		#02ff02
+Yellow:		#ffff02
+Blue: 		#0202ff
